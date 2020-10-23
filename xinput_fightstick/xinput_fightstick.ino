@@ -6,7 +6,7 @@
  * Fighting Stick Mini 4.  Allows switching between
  * using the joystick as DPAD/Left Stick/Right Stick.
  * 
- * @author SWD
+ * @author byt3swap
  * @date   10/22/2020
  */
 
